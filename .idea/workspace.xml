@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ff70b8d-d342-4e5c-bda6-0ce88d61cff3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/ecutb/peter/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/ecutb/peter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/ecutb/peter/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">

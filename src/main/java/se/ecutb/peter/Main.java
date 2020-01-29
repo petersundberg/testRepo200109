@@ -6,5 +6,7 @@ public class Main {
 
         System.out.println("Hello Peter");
         System.out.println("Hello again Peter");
+        System.out.println("Hello Peter third time");
+
     }
 }
